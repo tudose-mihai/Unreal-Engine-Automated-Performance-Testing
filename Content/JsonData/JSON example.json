@@ -1,0 +1,12 @@
+{
+    "Number": 2023,
+    "String": "String Example",
+    "Boolean": true,
+    "Array": [ "Array Element 1", "Array Element 2", 3, 4, false ],
+    "Person": {
+        "Name": "John Doe",
+        "Age": 35
+    }
+    "NullValue": null
+
+}

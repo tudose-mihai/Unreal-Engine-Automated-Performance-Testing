@@ -1,0 +1,668 @@
+{
+	"test1":
+	{
+		"Basic":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 1",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 5,
+			"performance": [
+				"FPS average 18.02",
+				"Average GPU frametime 53.56",
+				"Average RenderThread frametime 47.13",
+				"Average GameThread frametime 18.57",
+				"Target 30 FPS 39.72",
+				"Target 60 FPS 69.93",
+				"Target 120 FPS 84.97",
+				"Used Physical memory 2697.00",
+				"Used Virtual memory 2741.00"
+			],
+			"performanceScore": 4
+		},
+		"Foliage":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 1",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 5,
+			"performance": [
+				"FPS average 12.81",
+				"Average GPU frametime 87.35",
+				"Average RenderThread frametime 78.15",
+				"Average GameThread frametime 11.94",
+				"Target 30 FPS 57.22",
+				"Target 60 FPS 78.61",
+				"Target 120 FPS 89.32",
+				"Used Physical memory 2725.00",
+				"Used Virtual memory 2785.00"
+			],
+			"performanceScore": 4
+		},
+		"MovingLights":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 1",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 5,
+			"performance": [
+				"FPS average 12.46",
+				"Average GPU frametime 91.21",
+				"Average RenderThread frametime 80.65",
+				"Average GameThread frametime 15.05",
+				"Target 30 FPS 58.33",
+				"Target 60 FPS 79.22",
+				"Target 120 FPS 89.61",
+				"Used Physical memory 2765.00",
+				"Used Virtual memory 2806.00"
+			],
+			"performanceScore": 4
+		},
+		"MovingLights+Foliage":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 1",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 5,
+			"performance": [
+				"FPS average 10.60",
+				"Average GPU frametime 109.77",
+				"Average RenderThread frametime 95.24",
+				"Average GameThread frametime 18.17",
+				"Target 30 FPS 64.62",
+				"Target 60 FPS 82.31",
+				"Target 120 FPS 91.15",
+				"Used Physical memory 2736.00",
+				"Used Virtual memory 2783.00"
+			],
+			"performanceScore": 4
+		}
+	},
+	"test2":
+	{
+		"Basic":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 2",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 7,
+			"performance": [
+				"FPS average 18.29",
+				"Average GPU frametime 54.74",
+				"Average RenderThread frametime 48.14",
+				"Average GameThread frametime 9.94",
+				"Target 30 FPS 38.76",
+				"Target 60 FPS 69.45",
+				"Target 120 FPS 84.74",
+				"Used Physical memory 2758.00",
+				"Used Virtual memory 2839.00"
+			],
+			"performanceScore": 6
+		},
+		"Foliage":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 2",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 7,
+			"performance": [
+				"FPS average 13.48",
+				"Average GPU frametime 82.95",
+				"Average RenderThread frametime 74.21",
+				"Average GameThread frametime 11.80",
+				"Target 30 FPS 54.92",
+				"Target 60 FPS 77.52",
+				"Target 120 FPS 88.76",
+				"Used Physical memory 2771.00",
+				"Used Virtual memory 2863.00"
+			],
+			"performanceScore": 4
+		},
+		"MovingLights":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 2",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 7,
+			"performance": [
+				"FPS average 11.18",
+				"Average GPU frametime 114.23",
+				"Average RenderThread frametime 89.98",
+				"Average GameThread frametime 14.55",
+				"Target 30 FPS 62.69",
+				"Target 60 FPS 81.35",
+				"Target 120 FPS 90.67",
+				"Used Physical memory 2794.00",
+				"Used Virtual memory 2872.00"
+			],
+			"performanceScore": 4
+		},
+		"MovingLights+Foliage":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 2",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 7,
+			"performance": [
+				"FPS average 9.09",
+				"Average GPU frametime 126.39",
+				"Average RenderThread frametime 111.30",
+				"Average GameThread frametime 19.38",
+				"Target 30 FPS 69.59",
+				"Target 60 FPS 84.83",
+				"Target 120 FPS 92.43",
+				"Used Physical memory 2775.00",
+				"Used Virtual memory 2820.00"
+			],
+			"performanceScore": 4
+		}
+	},
+	"test0":
+	{
+		"Basic":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 0",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 3,
+			"performance": [
+				"FPS average 34.12",
+				"Average GPU frametime 27.39",
+				"Average RenderThread frametime 49.82",
+				"Average GameThread frametime 4.33",
+				"Target 30 FPS 0.00",
+				"Target 60 FPS 43.03",
+				"Target 120 FPS 71.55",
+				"Used Physical memory 2429.00",
+				"Used Virtual memory 2443.00"
+			],
+			"performanceScore": 6
+		},
+		"Foliage":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 0",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 3,
+			"performance": [
+				"FPS average 24.14",
+				"Average GPU frametime 51.31",
+				"Average RenderThread frametime 41.30",
+				"Average GameThread frametime 11.07",
+				"Target 30 FPS 19.17",
+				"Target 60 FPS 59.69",
+				"Target 120 FPS 79.87",
+				"Used Physical memory 2457.00",
+				"Used Virtual memory 2531.00"
+			],
+			"performanceScore": 4
+		},
+		"MovingLights":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 0",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 3,
+			"performance": [
+				"FPS average 22.44",
+				"Average GPU frametime 44.10",
+				"Average RenderThread frametime 44.11",
+				"Average GameThread frametime 9.03",
+				"Target 30 FPS 24.87",
+				"Target 60 FPS 62.53",
+				"Target 120 FPS 81.29",
+				"Used Physical memory 2490.00",
+				"Used Virtual memory 2571.00"
+			],
+			"performanceScore": 6
+		},
+		"MovingLights+Foliage":
+		{
+			"settings": [
+				"r.SetRes 1280x720wf",
+				"sg.ShadowQuality 0",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 3,
+			"performance": [
+				"FPS average 18.98",
+				"Average GPU frametime 66.90",
+				"Average RenderThread frametime 52.28",
+				"Average GameThread frametime 9.34",
+				"Target 30 FPS 36.60",
+				"Target 60 FPS 68.30",
+				"Target 120 FPS 84.17",
+				"Used Physical memory 2481.00",
+				"Used Virtual memory 2558.00"
+			],
+			"performanceScore": 6
+		}
+	},
+	"test3":
+	{
+		"Basic":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 0",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 5,
+			"performance": [
+				"FPS average 20.19",
+				"Average GPU frametime 55.87",
+				"Average RenderThread frametime 42.70",
+				"Average GameThread frametime 10.20",
+				"Target 30 FPS 32.56",
+				"Target 60 FPS 66.28",
+				"Target 120 FPS 83.16",
+				"Used Physical memory 2721.00",
+				"Used Virtual memory 2754.00"
+			],
+			"performanceScore": 4
+		},
+		"Foliage":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 0",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 5,
+			"performance": [
+				"FPS average 14.92",
+				"Average GPU frametime 67.30",
+				"Average RenderThread frametime 66.89",
+				"Average GameThread frametime 11.26",
+				"Target 30 FPS 50.26",
+				"Target 60 FPS 75.13",
+				"Target 120 FPS 87.56",
+				"Used Physical memory 2732.00",
+				"Used Virtual memory 2769.00"
+			],
+			"performanceScore": 4
+		},
+		"MovingLights":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 0",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 5,
+			"performance": [
+				"FPS average 13.83",
+				"Average GPU frametime 81.89",
+				"Average RenderThread frametime 72.48",
+				"Average GameThread frametime 15.68",
+				"Target 30 FPS 53.85",
+				"Target 60 FPS 76.92",
+				"Target 120 FPS 88.46",
+				"Used Physical memory 2781.00",
+				"Used Virtual memory 2807.00"
+			],
+			"performanceScore": 4
+		},
+		"MovingLights+Foliage":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 0",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 5,
+			"performance": [
+				"FPS average 11.69",
+				"Average GPU frametime 85.55",
+				"Average RenderThread frametime 86.36",
+				"Average GameThread frametime 15.48",
+				"Target 30 FPS 61.03",
+				"Target 60 FPS 80.51",
+				"Target 120 FPS 90.26",
+				"Used Physical memory 2784.00",
+				"Used Virtual memory 2811.00"
+			],
+			"performanceScore": 4
+		}
+	},
+	"test4":
+	{
+		"Basic":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 1",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 7,
+			"performance": [
+				"FPS average 19.39",
+				"Average GPU frametime 51.69",
+				"Average RenderThread frametime 44.77",
+				"Average GameThread frametime 11.00",
+				"Target 30 FPS 35.07",
+				"Target 60 FPS 67.61",
+				"Target 120 FPS 83.83",
+				"Used Physical memory 2769.00",
+				"Used Virtual memory 2798.00"
+			],
+			"performanceScore": 4
+		},
+		"Foliage":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 1",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 7,
+			"performance": [
+				"FPS average 13.62",
+				"Average GPU frametime 84.17",
+				"Average RenderThread frametime 73.66",
+				"Average GameThread frametime 13.28",
+				"Target 30 FPS 54.40",
+				"Target 60 FPS 77.26",
+				"Target 120 FPS 88.65",
+				"Used Physical memory 2787.00",
+				"Used Virtual memory 2819.00"
+			],
+			"performanceScore": 4
+		},
+		"MovingLights":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 1",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 7,
+			"performance": [
+				"FPS average 11.79",
+				"Average GPU frametime 96.56",
+				"Average RenderThread frametime 85.50",
+				"Average GameThread frametime 15.41",
+				"Target 30 FPS 60.62",
+				"Target 60 FPS 80.31",
+				"Target 120 FPS 90.17",
+				"Used Physical memory 2812.00",
+				"Used Virtual memory 2833.00"
+			],
+			"performanceScore": 4
+		},
+		"MovingLights+Foliage":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 1",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 7,
+			"performance": [
+				"FPS average 9.89",
+				"Average GPU frametime 116.42",
+				"Average RenderThread frametime 102.14",
+				"Average GameThread frametime 18.15",
+				"Target 30 FPS 67.01",
+				"Target 60 FPS 83.51",
+				"Target 120 FPS 91.75",
+				"Used Physical memory 2797.00",
+				"Used Virtual memory 2824.00"
+			],
+			"performanceScore": 4
+		}
+	},
+	"test5":
+	{
+		"Basic":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 2",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 9,
+			"performance": [
+				"FPS average 18.38",
+				"Average GPU frametime 54.44",
+				"Average RenderThread frametime 47.40",
+				"Average GameThread frametime 11.15",
+				"Target 30 FPS 38.68",
+				"Target 60 FPS 69.34",
+				"Target 120 FPS 84.67",
+				"Used Physical memory 2827.00",
+				"Used Virtual memory 2882.00"
+			],
+			"performanceScore": 4
+		},
+		"Foliage":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 2",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 9,
+			"performance": [
+				"FPS average 12.28",
+				"Average GPU frametime 104.84",
+				"Average RenderThread frametime 81.66",
+				"Average GameThread frametime 14.36",
+				"Target 30 FPS 58.85",
+				"Target 60 FPS 79.48",
+				"Target 120 FPS 89.75",
+				"Used Physical memory 2851.00",
+				"Used Virtual memory 2925.00"
+			],
+			"performanceScore": 4
+		},
+		"MovingLights":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 2",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 9,
+			"performance": [
+				"FPS average 9.03",
+				"Average GPU frametime 133.93",
+				"Average RenderThread frametime 111.93",
+				"Average GameThread frametime 26.39",
+				"Target 30 FPS 69.79",
+				"Target 60 FPS 84.94",
+				"Target 120 FPS 92.47",
+				"Used Physical memory 2844.00",
+				"Used Virtual memory 2915.00"
+			],
+			"performanceScore": 3
+		},
+		"MovingLights+Foliage":
+		{
+			"settings": [
+				"r.SetRes 1920x1080wf",
+				"sg.ShadowQuality 2",
+				"r.ScreenPercentage 100",
+				"r.PostProcessAAQuality 0",
+				"r.DepthOfFieldQuality 0",
+				"sg.PostProcessQuality 0",
+				"sg.TextureQuality 0",
+				"FoliageQuality 0",
+				"numberOfAiActors 0"
+			],
+			"settingsScore": 9,
+			"performance": [
+				"FPS average 9.09",
+				"Average GPU frametime 125.62",
+				"Average RenderThread frametime 111.54",
+				"Average GameThread frametime 19.31",
+				"Target 30 FPS 69.59",
+				"Target 60 FPS 84.83",
+				"Target 120 FPS 92.43",
+				"Used Physical memory 2809.00",
+				"Used Virtual memory 2839.00"
+			],
+			"performanceScore": 4
+		}
+	}
+}

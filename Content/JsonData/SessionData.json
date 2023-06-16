@@ -1,0 +1,14 @@
+{
+	"levels": [
+		"Basic",
+		"Foliage",
+		"MovingLights",
+		"MovingLights+Foliage"
+	],
+	"settings": [
+		"r.SetRes 1280x720",
+		"sg.ShadowQuality 0",
+		"sg.FoliageQuality 1"
+	],
+	"running": "no"		
+}

@@ -1,0 +1,15 @@
+{
+
+    "Settings": [
+        {
+            "Name": "r.ShadowQuality",
+            "Values": [ 0, 1, 2 ],
+            "Points": [ 1, 2, 3 ]
+        },
+        {
+            "Name": "r.SetRes",
+            "Values": [ "1920x1080wf", "1280x720wf" ],
+            "Points": [ 3, 1 ]
+        }
+    ]
+}
